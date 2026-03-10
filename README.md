@@ -1,0 +1,2 @@
+# Team-D-Entangled-Minds-Beyond-Classical-Limits-Quantum-Route-Revolution
+This project proposed by my team at the First Quantum Computing Hackathon of Pakistan 2026 solves the Traveling Salesman Problem using a clustered Quantum Approximate Optimization Algorithm (QAOA). With data from 150 locations in Islamabad, we optimized routes to reduce travel distance and cost, highlighting quantum-assisted logistics planning.
