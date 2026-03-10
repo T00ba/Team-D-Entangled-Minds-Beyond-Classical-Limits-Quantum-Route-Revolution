@@ -23,7 +23,7 @@ It covers:
 ├── classical_optimizer.py   # Parameter optimizer for CI-QAOA (COBYLA)
 ├── classical_solver.py      # Classical TSP solver (baseline comparison)
 ├── orchestrator.ipynb       # Main notebook — runs full pipeline & results
-├── tour_comparison_150cities_20260205_223956.xlsx             # Islamabad locations dataset (150 points)
+├── islamabad_tsp_150_realistic_locations.csv             # Islamabad locations dataset (150 points)
 └── README.md
 ```
 
@@ -57,7 +57,7 @@ The algorithm follows a four-stage pipeline:
 
 ---
 
-## 🚀 Running the Project
+##  Running the Project
 
 ### Prerequisites
 ```bash
@@ -72,7 +72,7 @@ orchestrator.ipynb
 ```
 
 This notebook:
-- Loads the Islamabad dataset from `dataset.xlsx`
+- Loads the Islamabad dataset from `islamabad_tsp_150_realistic_locations.csv`
 - Runs both the CI-QAOA and classical solvers
 - Outputs tour distances, approximation ratios, and route visualizations
 
@@ -80,7 +80,7 @@ This notebook:
 
 ## Dataset
 
-The dataset (`tour_comparison_150cities_20260205_223956.xlsx`) contains **150 real locations in Islamabad, Pakistan**, with latitude and longitude coordinates used to compute pairwise distances for the TSP.
+The dataset (`islamabad_tsp_150_realistic_locations.csv`) contains **150 real locations in Islamabad, Pakistan**, with latitude and longitude coordinates used to compute pairwise distances for the TSP.
 
 ---
 
