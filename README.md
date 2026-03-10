@@ -93,4 +93,4 @@ The dataset (`islamabad_tsp_150_realistic_locations.csv`) contains **150 real lo
 
 ## Contact
 
-For questions or collaboration, feel free to reach out via GitHub or toobabb@gmail.com.
+For questions or collaboration, feel free to reach out via GitHub, toobabb@gmail.com or krehan2010@yahoo.com. 
