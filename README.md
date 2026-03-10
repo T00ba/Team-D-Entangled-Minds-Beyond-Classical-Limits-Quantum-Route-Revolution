@@ -15,20 +15,6 @@ It covers:
 - CI-QAOA architecture and clustering strategy
 - Comparative analysis against classical solvers
 
----
-
-## Team D
-
-| Name |
-|------|
-| Tooba Bibi |
-| Muskan Aman Khan |
-| Misbah Riaz |
-| Muhammad Ayyaz |
-| Naeem Ahmed |
-
----
-
 ## Repository Structure
 ```
 ├── qubo.py                  # QUBO formulation of the TSP
